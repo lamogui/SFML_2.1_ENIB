@@ -11,7 +11,7 @@ toujours à la version 1.6 sur la plupart des distributions)
 Il s'agit d'une version statique de la SFML donc il y aura jamais de problème de 
 compilation générés par ces _merveilles_ de .so jamais compatibles.
 
-Si comme à l'ENIB glew n'est pas installé j'ai ausi inclus les sources de GLEW
+Si vous aussi comme à l'ENIB glew n'est pas installé j'ai inclus les sources de GLEW (version : la bonne version)
 histoire que vous n'ayez pas à chercher
 
 Tout le code de la SFML est écrit par Laurent Gomilla https://github.com/LaurentGomila
